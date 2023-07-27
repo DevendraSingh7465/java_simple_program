@@ -1,1 +1,1 @@
-This is my first java project in which i added all the smaal program in single unit.
+This is my first Java project in which I added all the small programs in a single unit.
